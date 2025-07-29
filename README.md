@@ -10,7 +10,7 @@ Founder of [Agile NDT](https://agilendt.com), builder of custom software solutio
 - Building out security policy automation and deployment scripts using Kamal & Docker.
 
 ## 🔧 Tools I Work With
-`Ruby on Rails` · `Hotwire` · `PostgreSQL` · `Sidekiq` · `Redis` · `TailwindCSS` · `NGINX` · `Kamal` · `Ubuntu` · `CI/CD`
+`Ruby on Rails` · `Hotwire` · `PostgreSQL` · `Sidekiq` · `Redis`  · `NGINX` · `Kamal` · `Ubuntu` · `CI/CD`
 
 ## 📬 Contact
 Reach me via [LinkedIn](https://www.linkedin.com/in/kevin-bett-99457719/) or [agilendt.com](https://agilendt.com)
