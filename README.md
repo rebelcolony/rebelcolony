@@ -12,5 +12,8 @@ Founder of [Agile NDT](https://agilendt.com), builder of custom software solutio
 ## 🔧 Tools I Work With
 `Ruby on Rails` · `Hotwire` · `PostgreSQL` · `Sidekiq` · `Redis`  · `NGINX` · `Kamal` · `Ubuntu` · `CI/CD`
 
+## 🔦 Featured Tools
+- [NDT.World](https://ndt.world) – Public tool finding NDT service providers based on location and capabilities.
+
 ## 📬 Contact
 Reach me via [LinkedIn](https://www.linkedin.com/in/kevin-bett-99457719/) or [agilendt.com](https://agilendt.com)
