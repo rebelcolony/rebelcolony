@@ -1,19 +1,43 @@
 # 👋 Hi, I’m Kevin Bett
-Founder of [Agile NDT](https://agilendt.com), builder of custom software solutions in NDT, Risk & Compliance.
+
+Founder of [AgileNDT](https://agilendt.com) — building developer-grade software for regulated industries.  
+I focus on fast, secure tools for NDT, Risk, Compliance, and Audit workflows.
+
+---
 
 ## 🚀 Projects
-- **AgileNDT** – Custom inspection reporting platform for NDT service providers.
-- **Malphara** – Enterprise Risk Management system with Audit, ESG & Incident modules.
 
-## 👷‍♂️ I'm Currently Working On
-- Aramco-compliant NDT workflow software with immutable approval pipelines.
-- Building out security policy automation and deployment scripts using Kamal & Docker.
+- **[AgileNDT](https://agilendt.com)** – Custom inspection reporting platform for NDT service providers.  
+- **[Malphara](https://malphara.com/)** – Enterprise Risk Management system with Audit, ESG & Incident modules.  
+- **[PupPDF](https://github.com/rebelcolony/PupPDF)** – Open-source Node.js/Puppeteer-based HTML → PDF converter REST API.  
+- **[NDT Reports Light](https://rebelcolony.github.io/ndt-reports-light/)** – Free online ultrasonic inspection report generator.
 
-## 🔧 Tools I Work With
-`Ruby on Rails` · `Hotwire` · `PostgreSQL` · `Sidekiq` · `Redis`  · `NGINX` · `Kamal` · `Ubuntu` · `CI/CD`
+---
 
-## 🔦 Featured Tools
-- [NDT.World](https://ndt.world) – Public tool finding NDT service providers based on location and capabilities.
+## 👷‍♂️ Currently Working On
+
+- Aramco‑compliant NDT workflows with immutable approval pipelines.  
+- Security policy automation and deployment workflows using Kamal/Docker.  
+- Scaling infrastructure to support multi-product execution.
+
+---
+
+## 🔧 Stack & Tools
+
+`Ruby on Rails` · `Node.js` · `Puppeteer` · `PostgreSQL` · `Sidekiq` · `Redis`  
+`Docker` · `NGINX` · `Kamal` · `CI/CD` · `Ubuntu` · `GitHub Actions`
+
+---
+
+## 🌐 Featured Public Tools
+
+- 🌍 [NDT.World](https://ndt.world) – Directory of NDT providers by location and capability.  
+- 📄 [NDT Reports Light](https://rebelcolony.github.io/ndt-reports-light/) – Free inspection report generator (static frontend + PDF backend).  
+- 📦 [PupPDF](https://github.com/rebelcolony/PupPDF) – HTML-to-PDF microservice built on Puppeteer (MIT‑licensed, public).
+
+---
 
 ## 📬 Contact
-Reach me via [LinkedIn](https://www.linkedin.com/in/kevin-bett-99457719/) or [agilendt.com](https://agilendt.com)
+
+- [LinkedIn](https://www.linkedin.com/in/kevin-bett-99457719/)  
+- [agilendt.com](https://agilendt.com)
